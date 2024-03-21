@@ -24,6 +24,6 @@
 
 <h1>Statistics</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anna-gt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anna-gt)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![codewars](https://www.codewars.com/users/anna-gt/badges/large)](https://www.codewars.com/users/anna-gt)
