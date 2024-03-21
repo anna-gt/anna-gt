@@ -23,4 +23,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <h1>Statistics</h1>
-[![codewars](https://www.codewars.com/users/anna-gt/badges/small)]
+
+[![codewars](https://www.codewars.com/users/anna-gt/badges/small)](https://www.codewars.com/users/anna-gt)
