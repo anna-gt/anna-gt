@@ -24,7 +24,6 @@
 
 <h1>Statistics</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anna-gt)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=anna-gt)](https://github.com/ryo-ma/github-profile-trophy)
-[![codewars](https://www.codewars.com/users/anna-gt/badges/small)](https://www.codewars.com/users/anna-gt)
+[![codewars](https://www.codewars.com/users/anna-gt/badges/large)](https://www.codewars.com/users/anna-gt)
