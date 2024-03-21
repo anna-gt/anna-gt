@@ -29,6 +29,6 @@
   </span>
 <span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![codewars](https://www.codewars.com/users/anna-gt/badges/large)](https://www.codewars.com/users/anna-gt)
     </span>
