@@ -4,6 +4,7 @@
 <p>👀 I’m interested in webdev</p>
 <p>🌱 I’m currently learning React</p>
 <p>🔭 I’m currently working on my React project</p>
+<p>💻 I'm looking for job offer for position of trainee or junior</p>
 <p>
   📫 How to reach me: 
   email <a href="hannah.ivanovich@gmail.com" target=_blank>hannah.ivanovich@gmail.com</a> 
