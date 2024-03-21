@@ -4,7 +4,7 @@
 <p>👀 I’m interested in webdev</p>
 <p>🌱 I’m currently learning React</p>
 <p>🔭 I’m currently working on my React project</p>
-<ul>📫 How to reach me:
+<ul align='left'>📫 How to reach me:
   <li>email <a href="hannah.ivanovich@gmail.com" target=_blank>hannah.ivanovich@gmail.com</a> </li>
   <li><a href="https://www.linkedin.com/in/anna-hetsman-b3a441269/" target=_blank>LinkedIn</a></li>
   <li>or telegram <a href="https://t.me/ania_gt" target=_blank>@ania_gt</a></li>
