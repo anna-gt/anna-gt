@@ -21,6 +21,6 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br>
 
-[![codewars](https://www.codewars.com/users/anna-gt/badges/small)
+<h1>Statistics</h1>
+![codewars](https://www.codewars.com/users/anna-gt/badges/small)
