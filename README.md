@@ -2,8 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>👀 I’m interested in webdev</p>
-<p>🌱 I’m currently learning React</p>
-<p>🔭 I’m currently working on my React project</p>
 <p>💻 I'm looking for job offer for position of trainee or junior</p>
 <p>
   📫 How to reach me: 
