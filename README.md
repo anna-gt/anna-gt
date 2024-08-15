@@ -1,8 +1,11 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aHo1aWxsYnlkc2FvOXFiZGI1MXBnN3ZjbTIxMXAxY21wNmdqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
+</div>
 <h1> Hi, I'm @anna-gt
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>👀 I’m interested in webdev</p>
-<p>💻 I'm looking for job offer for position of trainee or junior</p>
+<p>💻 Now I am learning vue.js</p>
 <p>
   📫 How to reach me: 
   email <a href="hannah.ivanovich@gmail.com" target=_blank>hannah.ivanovich@gmail.com</a> 
@@ -25,6 +28,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <h1>Statistics</h1>
-  
+
+[![codewars](https://www.codewars.com/users/anna-gt/badges/large)](https://www.codewars.com/users/anna-gt)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anna-gt&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-gt&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
