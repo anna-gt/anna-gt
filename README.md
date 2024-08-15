@@ -1,4 +1,4 @@
-// <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aHo1aWxsYnlkc2FvOXFiZGI1MXBnN3ZjbTIxMXAxY21wNmdqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aHo1aWxsYnlkc2FvOXFiZGI1MXBnN3ZjbTIxMXAxY21wNmdqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 <h1> Hi, I'm @anna-gt
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -12,7 +12,6 @@
 </p>
 
 <h1>My tech stack</h1>
-// https://github.com/Ileriayo/markdown-badges
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
