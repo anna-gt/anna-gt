@@ -1,5 +1,5 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXl1aHo1aWxsYnlkc2FvOXFiZGI1MXBnN3ZjbTIxMXAxY21wNmdqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
-<h1> Hi, I'm @anna-gt</h1>
+<h1> Hi, I'm @anna-gt
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>👀 I’m interested in webdev</p>
 <p>💻 Now I am learning vue.js</p>
