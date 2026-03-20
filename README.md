@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <p>👀 I’m interested in webdev</p>
-<p>💻 Now I am learning React Native</p>
+
 <p>
   📫 How to reach me: 
   email <a href="hannah.ivanovich@gmail.com" target=_blank>hannah.ivanovich@gmail.com</a> 
